@@ -1,7 +1,7 @@
 # Characteristic Learning for Provable One Step Generation
-This repo contains the implementation for the paper [Characteristic Learning for Provable One Step Generation](https://arxiv.org/abs/ARXIVID)
+This repo contains the implementation for the paper [Characteristic Learning for Provable One Step Generation](https://arxiv.org/abs/2405.05512)
 
-[![arXiv](https://img.shields.io/badge/arXiv-ARXIVID-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/ARXIVID)
+[![arXiv](https://img.shields.io/badge/arXiv-2405.05512-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2405.05512)
 
 <img src="asset/compare.png" alt="demo" width="200"/>
 
@@ -99,5 +99,12 @@ This repository is built upon some previous works
 If you find the code useful for your research, please consider citing
 
 ```bib
-
+@misc{ding2024characteristic,
+      title={Characteristic Learning for Provable One Step Generation}, 
+      author={Zhao Ding and Chenguang Duan and Yuling Jiao and Ruoxuan Li and Jerry Zhijian Yang and Pingwen Zhang},
+      year={2024},
+      eprint={2405.05512},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
